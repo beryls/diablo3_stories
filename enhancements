@@ -1,1 +1,6 @@
 Brighter, more realistic flames.
+
+Player classes' characteristics adjusted to account for uneven strength.
+	- Spell damage amounts.
+	- Speed and physical damage.
+	- Health and magic meters.

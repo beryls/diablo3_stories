@@ -1,1 +1,7 @@
 5 player classes - could add additional classes.
+
+Numerous different spells with multiple modifiers possible for each spell.
+	- Interface allowing selection of spells and modifiers.
+	- Animations for unmodified spell and modified versions.
+	- Different effects for each modification.
+	- Different interactions with monsters and environment.
